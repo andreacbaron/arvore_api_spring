@@ -26,7 +26,6 @@ public class SwaggerConf {
                                 .email("andrea.acb@gmail.com")
                         )
                         .license(new License()
-
                                 .name("Apache 2.0")
                                 .url("http://arvore/license")
                         )
